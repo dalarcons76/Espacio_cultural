@@ -1,0 +1,15 @@
+En esta evaluacion le envie un prompt algo flojo a la ia, con el 
+fin de que la evaluacion saliera lo mas rapido y corriente posible
+asique por ese motivo la evalucaion se ve tan "floja"
+
+
+//archivo_de_la_evalucaion = ES 20261008 WEB-302.pdf
+ve este archivo pdf, quiero que me ayudes a hacer mi prueba.
+ necesito que me ayudes desde la parte 3.2 en abajo
+
+ayudame a corregir el error de imagenes
+
+en el punto 7 de la guia aparece la rubrica. te enviare el enlace 
+github para que me evalues con eso dalarcons76/Espacio_cultural
+
+comprueba denuevo haciendo lo mismo
